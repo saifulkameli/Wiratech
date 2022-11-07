@@ -3,11 +3,11 @@ title: "Informasi Seputar Bisnis dan UKM"
 subtitle: Blog info Bisnis, Tips UKM, Izin Usaha, Peluang Bisnis, Pelatihan Kewirausahaan, Review UKM, Motivasi Bisnis dan sebagainya
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Wirapreneur?
+    text: "Wirapreneur merupakan portal UMKM yang membahasa seputar info bisnis, Tips UKM, Izin Usaha, Peluang Bisnis, Pelatihan Kewirausahaan, Review UKM, Review Mesin UKM, Motivasi Bisnis dan sebagainya. Fokus pada Kewirausahaan dan UMKM dengan jaringan portal media UMKM, Pelatihan Vokasional, Multi layanan dan produk untuk usaha"
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Fokus pada Kewirausahaan dan UKM dengan jaringan portal media UMKM, Pelatihan kewirausahaan, Multi layanan dan produk untuk usahaIklan, Pendaftaran & Inhouse Training untuk perusahaan dan lembaga pemerintahan Call/ WhatsApp 087817139675"
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
