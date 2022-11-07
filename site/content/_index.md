@@ -1,6 +1,6 @@
 ---
-title: "Toko Mesin Makanan dan Kemasan | WIRATECH"
-subtitle: Importir Mesin Makanan dan Kemasan Terpercaya di Indonesia
+title: "Informasi Seputar Bisnis dan UKM"
+subtitle: Blog info Bisnis, Tips UKM, Izin Usaha, Peluang Bisnis, Pelatihan Kewirausahaan, Review UKM, Motivasi Bisnis dan sebagainya
 image: /img/logo-wirapreneur.png
 blurb:
     heading: Why Kaldi?
