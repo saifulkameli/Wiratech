@@ -6,7 +6,7 @@ blurb:
     heading: Wirapreneur?
     text: "Wirapreneur merupakan portal UMKM yang membahasa seputar info bisnis, Tips UKM, Izin Usaha, Peluang Bisnis, Pelatihan Kewirausahaan, Review UKM, Review Mesin UKM, Motivasi Bisnis dan sebagainya. Fokus pada Kewirausahaan dan UMKM dengan jaringan portal media UMKM, Pelatihan Vokasional, Multi layanan dan produk untuk usaha"
 intro:
-    heading: "What we offer"
+    heading: "Apa yang kita tawarkan"
     text: "Fokus pada Kewirausahaan dan UKM dengan jaringan portal media UMKM, Pelatihan kewirausahaan, Multi layanan dan produk untuk usahaIklan, Pendaftaran & Inhouse Training untuk perusahaan dan lembaga pemerintahan Call/ WhatsApp 087817139675"
 products:
     - image: img/illustrations-coffee.svg
