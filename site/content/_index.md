@@ -10,7 +10,7 @@ intro:
     text: "Fokus pada Kewirausahaan dan UKM dengan jaringan portal media UMKM, Pelatihan kewirausahaan, Multi layanan dan produk untuk usaha Iklan, Pendaftaran & Inhouse Training untuk perusahaan dan lembaga pemerintahan Call/ WhatsApp 087817139675"
 products:
     - image: img/mesin-makanan-dan-mesin-kemasan.png
-      text: "<p><a href="https://wiratech.co.id/">Wiratech</a> adalah perusahaan yang menjual berbagai jenis mesin kemasan, mesin makanan dan mesin kemasan plastik secara online. Kami memiliki berbagai jenis metode pembelian yang mudah dan fleksibel yang dapat Anda lakukan secara langsung atau melalui Internet (online). Jangan takut dengan praktek penipuan, karena semua transaksi di WIRATECH dijamin aman, nyaman dan cepat.</p>"
+      text: "Wiratech adalah perusahaan yang menjual berbagai jenis mesin kemasan, mesin makanan dan mesin kemasan plastik secara online. Kami memiliki berbagai jenis metode pembelian yang mudah dan fleksibel yang dapat Anda lakukan secara langsung atau melalui Internet (online). Jangan takut dengan praktek penipuan, karena semua transaksi di WIRATECH dijamin aman, nyaman dan cepat.</p>"
     - image: /img/illustrations-coffee-gear.svg
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
