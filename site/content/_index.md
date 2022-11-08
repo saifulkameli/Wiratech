@@ -14,7 +14,7 @@ products:
     - image: /img/wiratech-mesin-kemasan-dan-plastik-kemasan.jpg
       text: "Hingga saat ini Wiratech telah dipercaya oleh lebih dari 20.000 pelanggan. Tidak hanya UKM, tetapi juga perusahaan industri besar dari berbagai daerah di Indonesia mempercayakan menggunakan mesin Wiratetech. Selain itu, Wiratech juga telah menjalin kerjasama dengan puluhan brand ternama di Indonesia, seperti AQUA, Panasonic, Alfamart, Pertamina, Buloq, Indomaret, Kimia Farma dan perusahaan besar lainnya."
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Mesin Es Krim
+    text: Mesin es krim adalah mesin yang digunakan untuk membuat es krim yang banyak disukai dengan berbagai rasa dan variasi. Dengan pembuat es krim otomatis Anda dapat membuat es lebih cepat, lebih efisien dan ekonomis. Dapatkan pembuat es krim import termurah dengan garansi resmi dari WIRATECH..
 ---
 
