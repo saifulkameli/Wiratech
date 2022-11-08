@@ -10,7 +10,8 @@ intro:
     text: "Fokus pada Kewirausahaan dan UKM dengan jaringan portal media UMKM, Pelatihan kewirausahaan, Importir Mesin Makanan dan mesin kemasan, Multi layanan dan produk untuk usaha Iklan, Pendaftaran & Inhouse Training untuk perusahaan dan lembaga pemerintahan Call/ WhatsApp 087817139675"
 products:
     - image: img/mesin-makanan-dan-mesin-kemasan.png
-      text: "[Wiratech](https://wiratech.co.id/) adalah perusahaan yang menjual berbagai jenis mesin kemasan, mesin makanan dan mesin kemasan plastik secara online. Kami memiliki berbagai jenis metode pembelian yang mudah dan fleksibel yang dapat Anda lakukan secara langsung atau melalui Internet (online). Jangan takut dengan praktek penipuan, karena semua transaksi di WIRATECH dijamin aman, nyaman dan cepat."
+      [Wiratech](https://wiratech.co.id/)
+      text: "adalah perusahaan yang menjual berbagai jenis mesin kemasan, mesin makanan dan mesin kemasan plastik secara online. Kami memiliki berbagai jenis metode pembelian yang mudah dan fleksibel yang dapat Anda lakukan secara langsung atau melalui Internet (online). Jangan takut dengan praktek penipuan, karena semua transaksi di WIRATECH dijamin aman, nyaman dan cepat."
     - image: /img/wiratech-mesin-kemasan-dan-plastik-kemasan.jpg
       text: "Hingga saat ini Wiratech telah dipercaya oleh lebih dari 20.000 pelanggan. Tidak hanya UKM, tetapi juga perusahaan industri besar dari berbagai daerah di Indonesia mempercayakan menggunakan mesin Wiratetech. Selain itu, Wiratech juga telah menjalin kerjasama dengan puluhan brand ternama di Indonesia, seperti AQUA, Panasonic, Alfamart, Pertamina, Buloq, Indomaret, Kimia Farma dan perusahaan besar lainnya."
 values:
