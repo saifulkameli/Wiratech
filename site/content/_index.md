@@ -17,4 +17,3 @@ values:
     heading: Mesin Es Krim
     text: Mesin es krim adalah mesin yang digunakan untuk membuat es krim yang banyak disukai dengan berbagai rasa dan variasi. Dengan pembuat es krim otomatis Anda dapat membuat es lebih cepat, lebih efisien dan ekonomis. Dapatkan pembuat es krim import termurah dengan garansi resmi dari WIRATECH..
 ---
-[WIRATECH](https://wiratech.co.id/)
